@@ -1,0 +1,35 @@
+{
+    "home": {
+        "title": "You are Welcome",
+        "user1": "You can",
+        "user2": "sing In",
+        "user3": "to a profile under a ready-made profile or",
+        "user4": "create your own",
+        "userList": "Users list",
+        "userLogin": "Login",
+        "userPassword": "Password",
+        "userType": "Type of control",
+        "des1": "Online store 'E-market'.",
+        "des2": "- Implemented a basket of goods, sorting of goods by category, search by name.",
+        "des3": "- There is a personal account for buyers, where you can view user information and order history & a personal account for the administrator, where you can add a category or a new product.",
+        "des4": "- The administrator can also edit an existing product in the product card.",
+        "des5": "- It is possible to register and select a profile category (administrator/buyer).",
+        "des6": "- Loading of products to the page has been implemented.",
+        "des7": "- Dark/light theme change.",
+        "des8": "- English/Russian language change.",
+        "des9": "- Fully adapted for mobile devices.",
+        "des10": "- Back-end - JSON server."
+    },
+    "header": {
+        "main": "Main",
+        "goods": "Goods",
+        "admin": "Admin"
+    },
+    "goods": {
+        "search": "Product search"
+    },
+    "button": {
+        "addBasket": "In to cart",
+        "showMore": "Show more"
+    }
+}
